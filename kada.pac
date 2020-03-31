@@ -12575,6 +12575,7 @@ var domainsUsingProxy = {
   "git.io": 1, 
   "gitbooks.io": 1, 
   "github.com": 1, 
+  "githubusercontent.com": 1, 
   "gizlen.net": 1, 
   "gjczz.com": 1, 
   "glass8.eu": 1, 
@@ -16167,7 +16168,7 @@ function FindProxyForURL(url, host) {
     if (!strIp) {
         return proxy;
     }
-    
+
     intIp = convertAddress(strIp);
 
     if (match(intIp)) {
