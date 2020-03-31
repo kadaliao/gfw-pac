@@ -110,7 +110,7 @@ function FindProxyForURL(url, host) {
     if (!strIp) {
         return proxy;
     }
-    
+
     intIp = convertAddress(strIp);
 
     if (match(intIp)) {
