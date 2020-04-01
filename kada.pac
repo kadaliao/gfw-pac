@@ -10645,6 +10645,7 @@ var directDomains = {
   "ifeng.com": 1, 
   "ifengimg.com": 1, 
   "ijinshan.com": 1, 
+  "intra.douban.com": 1, 
   "iqiyi.com": 1, 
   "it168.com": 1, 
   "itcpn.net": 1, 

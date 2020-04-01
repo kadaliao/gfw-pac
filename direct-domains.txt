@@ -382,3 +382,4 @@ mmstat.com
 taobao.com
 alicdn.com
 bootstrapcdn.com
+intra.douban.com
