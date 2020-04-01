@@ -383,3 +383,4 @@ taobao.com
 alicdn.com
 bootstrapcdn.com
 intra.douban.com
+dapps.douban.com

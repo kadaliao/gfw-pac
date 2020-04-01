@@ -10594,6 +10594,7 @@ var directDomains = {
   "ct10000.com": 1, 
   "ctdisk.com": 1, 
   "dangdang.com": 1, 
+  "dapps.douban.com": 1, 
   "dbank.com": 1, 
   "dedecms.com": 1, 
   "diandian.com": 1, 
