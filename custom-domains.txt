@@ -6,6 +6,9 @@ google-analytics.com
 googleadservices.com
 googlesyndication.com
 googleadsserving.cn
+googlevideo.com
+webtest.net
+youtube.com
 doubleclick.net
 wikipedia.org
 stackoverflow.com
