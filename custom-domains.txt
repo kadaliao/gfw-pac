@@ -48,3 +48,5 @@ ocsp.apple.com
 raw.githubusercontent.com
 brain.fm
 githubusercontent.com
+feeder.co
+feedercdn.com
