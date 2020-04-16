@@ -1,4 +1,4 @@
-var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT";
+var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var direct = 'DIRECT;';
 
@@ -10857,6 +10857,8 @@ var domainsUsingProxy = {
   "doubleclick.net": 1,
   "edgekey.net": 1,
   "fastly.net": 1,
+  "feeder.co": 1,
+  "feedercdn.com": 1,
   "gerhards.net": 1,
   "ggpht.com": 1,
   "githubusercontent.com": 1,

@@ -1,2 +1,11 @@
 #!/usr/bin/env sh
-./gfw-pac.py -i gfwlist.txt --direct-rule direct-domains.txt --user-rule custom-domains.txt -p "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT" -f kada.pac
+
+PROXY_DOUBAN='PROXY tunnel.douban.com:8118;HTTPS tunnel.douban.com:8443;DIRECT'
+PROXY_LOCAL='SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;'
+
+gen_pac() {
+  ./gfw-pac.py -i gfwlist.txt --direct-rule direct-domains.txt --user-rule custom-domains.txt -p "$PROXY_DOUBAN" -f douban.pac
+  ./gfw-pac.py -i gfwlist.txt --direct-rule direct-domains.txt --user-rule custom-domains.txt -p "$PROXY_LOCAL" -f kada.pac
+}
+
+gen_pac
