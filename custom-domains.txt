@@ -50,3 +50,4 @@ brain.fm
 githubusercontent.com
 feeder.co
 feedercdn.com
+cdninstagram.com

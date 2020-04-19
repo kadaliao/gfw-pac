@@ -10848,6 +10848,7 @@ var domainsUsingProxy = {
   "apple.com": 1,
   "atlassian.com": 1,
   "brain.fm": 1,
+  "cdninstagram.com": 1,
   "chrome.com": 1,
   "cloudfront.net": 1,
   "digicert.com": 1,
