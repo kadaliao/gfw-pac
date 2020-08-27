@@ -51,3 +51,5 @@ githubusercontent.com
 feeder.co
 feedercdn.com
 cdninstagram.com
+kada.ink
+selenium.dev
