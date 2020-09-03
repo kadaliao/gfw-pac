@@ -54,3 +54,4 @@ cdninstagram.com
 kada.ink
 selenium.dev
 github.io
+gstatic.com
