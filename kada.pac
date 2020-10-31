@@ -12139,6 +12139,7 @@ var domainsUsingProxy = {
   "dwnews.com": 1,
   "dwnews.net": 1,
   "dxiong.com": 1,
+  "dynalist.io": 1,
   "dynamic-dns.net": 1,
   "dynamicdns.biz": 1,
   "dynawebinc.com": 1,
