@@ -57,3 +57,4 @@ github.io
 gstatic.com
 d3c33hcgiwev3.cloudfront.net
 dynalist.io
+utsa.blackboard.com
