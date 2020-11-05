@@ -11432,6 +11432,7 @@ var domainsUsingProxy = {
   "bjs.org": 1,
   "bjzc.org": 1,
   "bl-doujinsouko.com": 1,
+  "blackboard.com": 1,
   "blacklogic.com": 1,
   "blackvpn.com": 1,
   "blewpass.com": 1,
